@@ -1,0 +1,9 @@
+Origin: XBian
+Package: xbian-package-development
+Version: 1.0
+Section: devel
+Priority: optional
+Architecture: armhf
+Depends: git-core, python-setuptools, make, gcc, build-essential, libftdipp1, libconfuse-dev, python-dev, i2c-tools
+Maintainer: CurlyMo <development@xbian.org>
+Description: Common development tools for the RPi.
